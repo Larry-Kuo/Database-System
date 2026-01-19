@@ -1,0 +1,24 @@
+# Build artifacts
+Build/*.o
+Build/bin/
+Build/tempFile
+Build/catFile
+Build/*.bin
+Build/*.tbl
+Build/build_output.txt
+Build/bplus_output.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
